@@ -1,0 +1,1022 @@
+{
+    "name": "Qure AllCountries",
+    "icons": [
+        {
+            "name": "nr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/nr.png"
+        },
+        {
+            "name": "na",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/na.png"
+        },
+        {
+            "name": "fi",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/fi.png"
+        },
+        {
+            "name": "ls",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ls.png"
+        },
+        {
+            "name": "ve",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ve.png"
+        },
+        {
+            "name": "tr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tr.png"
+        },
+        {
+            "name": "ba",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ba.png"
+        },
+        {
+            "name": "as",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/as.png"
+        },
+        {
+            "name": "qa",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/qa.png"
+        },
+        {
+            "name": "cy",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cy.png"
+        },
+        {
+            "name": "my",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/my.png"
+        },
+        {
+            "name": "cz",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cz.png"
+        },
+        {
+            "name": "gw",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gw.png"
+        },
+        {
+            "name": "ru",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ru.png"
+        },
+        {
+            "name": "jp",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/jp.png"
+        },
+        {
+            "name": "mz",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mz.png"
+        },
+        {
+            "name": "eh",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/eh.png"
+        },
+        {
+            "name": "mu",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mu.png"
+        },
+        {
+            "name": "af",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/af.png"
+        },
+        {
+            "name": "mp",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mp.png"
+        },
+        {
+            "name": "vg",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/vg.png"
+        },
+        {
+            "name": "cu",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cu.png"
+        },
+        {
+            "name": "dm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/dm.png"
+        },
+        {
+            "name": "jo",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/jo.png"
+        },
+        {
+            "name": "id",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/id.png"
+        },
+        {
+            "name": "cn",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cn.png"
+        },
+        {
+            "name": "ck",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ck.png"
+        },
+        {
+            "name": "dj",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/dj.png"
+        },
+        {
+            "name": "io",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/io.png"
+        },
+        {
+            "name": "fo",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/fo.png"
+        },
+        {
+            "name": "aw",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/aw.png"
+        },
+        {
+            "name": "pm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pm.png"
+        },
+        {
+            "name": "sn",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sn.png"
+        },
+        {
+            "name": "hr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/hr.png"
+        },
+        {
+            "name": "tf",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tf.png"
+        },
+        {
+            "name": "cl",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cl.png"
+        },
+        {
+            "name": "tk",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tk.png"
+        },
+        {
+            "name": "je",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/je.png"
+        },
+        {
+            "name": "sd",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sd.png"
+        },
+        {
+            "name": "bt",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bt.png"
+        },
+        {
+            "name": "py",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/py.png"
+        },
+        {
+            "name": "tg",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tg.png"
+        },
+        {
+            "name": "lr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/lr.png"
+        },
+        {
+            "name": "gs",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gs.png"
+        },
+        {
+            "name": "pg",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pg.png"
+        },
+        {
+            "name": "lb",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/lb.png"
+        },
+        {
+            "name": "sy",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sy.png"
+        },
+        {
+            "name": "th",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/th.png"
+        },
+        {
+            "name": "ng",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ng.png"
+        },
+        {
+            "name": "fr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/fr.png"
+        },
+        {
+            "name": "wf",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/wf.png"
+        },
+        {
+            "name": "pr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pr.png"
+        },
+        {
+            "name": "sv",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sv.png"
+        },
+        {
+            "name": "ir",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ir.png"
+        },
+        {
+            "name": "vu",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/vu.png"
+        },
+        {
+            "name": "gb-sct",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gb-sct.png"
+        },
+        {
+            "name": "ca",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ca.png"
+        },
+        {
+            "name": "gm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gm.png"
+        },
+        {
+            "name": "to",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/to.png"
+        },
+        {
+            "name": "ch",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ch.png"
+        },
+        {
+            "name": "er",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/er.png"
+        },
+        {
+            "name": "kz",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/kz.png"
+        },
+        {
+            "name": "ne",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ne.png"
+        },
+        {
+            "name": "sb",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sb.png"
+        },
+        {
+            "name": "lk",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/lk.png"
+        },
+        {
+            "name": "mv",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mv.png"
+        },
+        {
+            "name": "zm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/zm.png"
+        },
+        {
+            "name": "pk",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pk.png"
+        },
+        {
+            "name": "mk",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mk.png"
+        },
+        {
+            "name": "et",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/et.png"
+        },
+        {
+            "name": "gb-nir",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gb-nir.png"
+        },
+        {
+            "name": "ke",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ke.png"
+        },
+        {
+            "name": "ro",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ro.png"
+        },
+        {
+            "name": "hn",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/hn.png"
+        },
+        {
+            "name": "ly",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ly.png"
+        },
+        {
+            "name": "fm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/fm.png"
+        },
+        {
+            "name": "bl",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bl.png"
+        },
+        {
+            "name": "za",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/za.png"
+        },
+        {
+            "name": "ax",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ax.png"
+        },
+        {
+            "name": "ml",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ml.png"
+        },
+        {
+            "name": "gd",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gd.png"
+        },
+        {
+            "name": "gy",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gy.png"
+        },
+        {
+            "name": "bb",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bb.png"
+        },
+        {
+            "name": "fj",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/fj.png"
+        },
+        {
+            "name": "dz",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/dz.png"
+        },
+        {
+            "name": "jm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/jm.png"
+        },
+        {
+            "name": "mh",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mh.png"
+        },
+        {
+            "name": "bd",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bd.png"
+        },
+        {
+            "name": "mm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mm.png"
+        },
+        {
+            "name": "kg",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/kg.png"
+        },
+        {
+            "name": "it",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/it.png"
+        },
+        {
+            "name": "vc",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/vc.png"
+        },
+        {
+            "name": "es",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/es.png"
+        },
+        {
+            "name": "pa",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pa.png"
+        },
+        {
+            "name": "sa",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sa.png"
+        },
+        {
+            "name": "bq",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bq.png"
+        },
+        {
+            "name": "sk",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sk.png"
+        },
+        {
+            "name": "bm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bm.png"
+        },
+        {
+            "name": "in",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/in.png"
+        },
+        {
+            "name": "xk",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/xk.png"
+        },
+        {
+            "name": "am",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/am.png"
+        },
+        {
+            "name": "pe",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pe.png"
+        },
+        {
+            "name": "ki",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ki.png"
+        },
+        {
+            "name": "im",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/im.png"
+        },
+        {
+            "name": "ug",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ug.png"
+        },
+        {
+            "name": "lt",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/lt.png"
+        },
+        {
+            "name": "tj",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tj.png"
+        },
+        {
+            "name": "hu",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/hu.png"
+        },
+        {
+            "name": "td",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/td.png"
+        },
+        {
+            "name": "pn",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pn.png"
+        },
+        {
+            "name": "ms",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ms.png"
+        },
+        {
+            "name": "kh",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/kh.png"
+        },
+        {
+            "name": "sc",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sc.png"
+        },
+        {
+            "name": "so",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/so.png"
+        },
+        {
+            "name": "uy",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/uy.png"
+        },
+        {
+            "name": "tc",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tc.png"
+        },
+        {
+            "name": "kp",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/kp.png"
+        },
+        {
+            "name": "vi",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/vi.png"
+        },
+        {
+            "name": "gi",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gi.png"
+        },
+        {
+            "name": "iq",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/iq.png"
+        },
+        {
+            "name": "hm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/hm.png"
+        },
+        {
+            "name": "sm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sm.png"
+        },
+        {
+            "name": "ie",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ie.png"
+        },
+        {
+            "name": "ee",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ee.png"
+        },
+        {
+            "name": "gn",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gn.png"
+        },
+        {
+            "name": "rw",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/rw.png"
+        },
+        {
+            "name": "um",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/um.png"
+        },
+        {
+            "name": "ye",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ye.png"
+        },
+        {
+            "name": "cw",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cw.png"
+        },
+        {
+            "name": "tw",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tw.png"
+        },
+        {
+            "name": "mr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mr.png"
+        },
+        {
+            "name": "mf",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mf.png"
+        },
+        {
+            "name": "bi",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bi.png"
+        },
+        {
+            "name": "ni",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ni.png"
+        },
+        {
+            "name": "vn",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/vn.png"
+        },
+        {
+            "name": "cd",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cd.png"
+        },
+        {
+            "name": "fk",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/fk.png"
+        },
+        {
+            "name": "va",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/va.png"
+        },
+        {
+            "name": "mn",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mn.png"
+        },
+        {
+            "name": "bs",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bs.png"
+        },
+        {
+            "name": "tl",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tl.png"
+        },
+        {
+            "name": "gl",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gl.png"
+        },
+        {
+            "name": "ad",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ad.png"
+        },
+        {
+            "name": "se",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/se.png"
+        },
+        {
+            "name": "sr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sr.png"
+        },
+        {
+            "name": "kn",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/kn.png"
+        },
+        {
+            "name": "gr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gr.png"
+        },
+        {
+            "name": "mx",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mx.png"
+        },
+        {
+            "name": "ph",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ph.png"
+        },
+        {
+            "name": "lc",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/lc.png"
+        },
+        {
+            "name": "bv",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bv.png"
+        },
+        {
+            "name": "ge",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ge.png"
+        },
+        {
+            "name": "nz",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/nz.png"
+        },
+        {
+            "name": "cf",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cf.png"
+        },
+        {
+            "name": "mg",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mg.png"
+        },
+        {
+            "name": "cc",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cc.png"
+        },
+        {
+            "name": "si",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/si.png"
+        },
+        {
+            "name": "om",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/om.png"
+        },
+        {
+            "name": "il",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/il.png"
+        },
+        {
+            "name": "nu",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/nu.png"
+        },
+        {
+            "name": "gb-wls",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gb-wls.png"
+        },
+        {
+            "name": "lu",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/lu.png"
+        },
+        {
+            "name": "ua",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ua.png"
+        },
+        {
+            "name": "ec",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ec.png"
+        },
+        {
+            "name": "me",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/me.png"
+        },
+        {
+            "name": "np",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/np.png"
+        },
+        {
+            "name": "at",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/at.png"
+        },
+        {
+            "name": "bj",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bj.png"
+        },
+        {
+            "name": "gf",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gf.png"
+        },
+        {
+            "name": "tt",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tt.png"
+        },
+        {
+            "name": "tn",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tn.png"
+        },
+        {
+            "name": "sj",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sj.png"
+        },
+        {
+            "name": "yt",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/yt.png"
+        },
+        {
+            "name": "ao",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ao.png"
+        },
+        {
+            "name": "de",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/de.png"
+        },
+        {
+            "name": "mt",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mt.png"
+        },
+        {
+            "name": "ar",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ar.png"
+        },
+        {
+            "name": "ws",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ws.png"
+        },
+        {
+            "name": "nf",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/nf.png"
+        },
+        {
+            "name": "zw",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/zw.png"
+        },
+        {
+            "name": "gg",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gg.png"
+        },
+        {
+            "name": "tv",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tv.png"
+        },
+        {
+            "name": "mw",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mw.png"
+        },
+        {
+            "name": "la",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/la.png"
+        },
+        {
+            "name": "gp",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gp.png"
+        },
+        {
+            "name": "pw",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pw.png"
+        },
+        {
+            "name": "sg",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sg.png"
+        },
+        {
+            "name": "ky",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ky.png"
+        },
+        {
+            "name": "hk",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/hk.png"
+        },
+        {
+            "name": "aq",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/aq.png"
+        },
+        {
+            "name": "us",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/us.png"
+        },
+        {
+            "name": "tm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tm.png"
+        },
+        {
+            "name": "bn",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bn.png"
+        },
+        {
+            "name": "bo",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bo.png"
+        },
+        {
+            "name": "dk",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/dk.png"
+        },
+        {
+            "name": "gu",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gu.png"
+        },
+        {
+            "name": "ag",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ag.png"
+        },
+        {
+            "name": "mq",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mq.png"
+        },
+        {
+            "name": "cv",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cv.png"
+        },
+        {
+            "name": "bg",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bg.png"
+        },
+        {
+            "name": "sh",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sh.png"
+        },
+        {
+            "name": "pt",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pt.png"
+        },
+        {
+            "name": "ga",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ga.png"
+        },
+        {
+            "name": "sz",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sz.png"
+        },
+        {
+            "name": "cg",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cg.png"
+        },
+        {
+            "name": "st",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/st.png"
+        },
+        {
+            "name": "au",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/au.png"
+        },
+        {
+            "name": "ma",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ma.png"
+        },
+        {
+            "name": "gt",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gt.png"
+        },
+        {
+            "name": "eg",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/eg.png"
+        },
+        {
+            "name": "cm",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cm.png"
+        },
+        {
+            "name": "ht",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ht.png"
+        },
+        {
+            "name": "bf",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bf.png"
+        },
+        {
+            "name": "nc",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/nc.png"
+        },
+        {
+            "name": "km",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/km.png"
+        },
+        {
+            "name": "mo",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mo.png"
+        },
+        {
+            "name": "cr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cr.png"
+        },
+        {
+            "name": "cx",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/cx.png"
+        },
+        {
+            "name": "lv",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/lv.png"
+        },
+        {
+            "name": "re",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/re.png"
+        },
+        {
+            "name": "kw",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/kw.png"
+        },
+        {
+            "name": "tz",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/tz.png"
+        },
+        {
+            "name": "az",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/az.png"
+        },
+        {
+            "name": "gh",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gh.png"
+        },
+        {
+            "name": "ss",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ss.png"
+        },
+        {
+            "name": "bz",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bz.png"
+        },
+        {
+            "name": "kr",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/kr.png"
+        },
+        {
+            "name": "co",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/co.png"
+        },
+        {
+            "name": "be",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/be.png"
+        },
+        {
+            "name": "nl",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/nl.png"
+        },
+        {
+            "name": "ps",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ps.png"
+        },
+        {
+            "name": "md",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/md.png"
+        },
+        {
+            "name": "gb",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gb.png"
+        },
+        {
+            "name": "do",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/do.png"
+        },
+        {
+            "name": "no",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/no.png"
+        },
+        {
+            "name": "rs",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/rs.png"
+        },
+        {
+            "name": "by",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/by.png"
+        },
+        {
+            "name": "br",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/br.png"
+        },
+        {
+            "name": "pl",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pl.png"
+        },
+        {
+            "name": "gq",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gq.png"
+        },
+        {
+            "name": "al",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/al.png"
+        },
+        {
+            "name": "ai",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ai.png"
+        },
+        {
+            "name": "gb-eng",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/gb-eng.png"
+        },
+        {
+            "name": "ae",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ae.png"
+        },
+        {
+            "name": "uz",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/uz.png"
+        },
+        {
+            "name": "sl",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sl.png"
+        },
+        {
+            "name": "mc",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/mc.png"
+        },
+        {
+            "name": "sx",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/sx.png"
+        },
+        {
+            "name": "li",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/li.png"
+        },
+        {
+            "name": "pf",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/pf.png"
+        },
+        {
+            "name": "bw",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bw.png"
+        },
+        {
+            "name": "bh",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/bh.png"
+        },
+        {
+            "name": "ci",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/ci.png"
+        },
+        {
+            "name": "is",
+            "url": "https://raw.githubusercontent.com/whoiszzj/Qure/master/IconSet/AllCountries/is.png"
+        }
+    ],
+    "description": "All countries flags in the world"
+}
